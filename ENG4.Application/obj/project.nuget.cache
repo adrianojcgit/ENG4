@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOEo47foi3R5xH3PuUCfoH/IV43AHMtrZDTBU+YJlRKbH0gabjHBcpM6k2Mne9gi+6CE5EBRNBm8W5XCXbR8mA==",
+  "success": true,
+  "projectFilePath": "C:\\Adriano\\Projetos\\ENG4\\ENG4.Application\\ENG4.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
